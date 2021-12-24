@@ -1,4 +1,4 @@
-<h1 align="center">java-object-oriented</h1>
+<h1 align="center"> ☕ java-object-oriented ☕</h1>
 
 <p align="center">Object-oriented Java study with CAELUM material.</p>
 
